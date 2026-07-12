@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github.com/Microtechbymak26/GITHUB/raw/main/dark.svg" width="100%" alt="Premium Banner">
 <!--
 **Microtechbymak26/Microtechbymak26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github.com/Microtechbymak26/GITHUB/raw/main/dark.svg" width="100%" alt="Premium Banner">
